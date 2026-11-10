@@ -1,23 +1,21 @@
 {
-  "name": "android-chrome-192x192",
-  "short_name": "android-chro",
-  "description": "android-chrome-192x192 - A Progressive Web App",
+  "name": "Data Know How",
+  "short_name": "Data Know How",
+  "description": "Industrielle Weiterbildung und Schulungen für Automatisierungstechnik",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#03275B",
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/favicons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable any"
+      "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/favicons/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
+      "type": "image/png"
     }
   ]
 }
